@@ -1,0 +1,59 @@
+body{
+    background-image: url("../Images/back-contact.jpg");
+    background-size: cover;
+    background-color: snow;
+}
+#header{
+    background-color:burlywood;
+    border: 3px solid chocolate;
+}
+#headline{
+    padding: 20px;
+    background-color: rgba(133, 113, 113, 0.164);
+}
+#intro-heading{
+    text-align: center;
+}
+img{
+    left: 10%;
+    float: left;
+    height: 240px; 
+    width: 260px;
+    margin-right: 10px;
+    border: 5px solid rgba(94, 82, 61, 0.514);
+    opacity: 0.85;
+}
+#intro{
+    position: relative;
+    bottom: 150px;
+    background-image: url("../Images/Background-1.jpg");
+    background-size: cover;
+    border: 5px solid rgba(90, 84, 84, 0.692);
+    background-color: rgb(184, 179, 169);
+    padding: 30px;
+    width: 55%;
+    margin: 20%;
+}
+#hello{
+    color: brown;
+    font-size: 30px;
+}
+#intro p{
+    
+    font-weight: bolder;
+    text-shadow: 1px 1px rgb(235, 181, 102);
+    font-size: 17px;
+    line-height: 30px;
+
+}
+#para_end h3,h4{
+    color: rgb(255, 0, 212);
+    font-weight: bolder;
+    font-size: 22px;
+    text-shadow: 1px 1px 1px rgba(10, 240, 240, 0.897);
+    text-align: center;
+}
+#copyright{
+    border: 1px solid brown;
+    background-color: peachpuff;
+}
